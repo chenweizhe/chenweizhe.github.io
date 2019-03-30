@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>Chenweizhe&#39;s Blog</title>
   
-  
+  <subtitle>新的开始</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
@@ -10,7 +10,7 @@
   <id>http://yoursite.com/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>Chenweizhe</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/post/hello-world/"/>
-    <id>http://yoursite.com/post/hello-world/</id>
+    <link href="http://yoursite.com/2019/03/30/hello-world/"/>
+    <id>http://yoursite.com/2019/03/30/hello-world/</id>
     <published>2019-03-30T07:36:19.241Z</published>
     <updated>2019-03-30T07:36:19.241Z</updated>
     
